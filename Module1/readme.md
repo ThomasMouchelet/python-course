@@ -5,6 +5,33 @@
 Python est un langage de programmation interprété, c'est-à-dire qu'il n'est pas nécessaire de le compiler avant de l'exécuter. Il est multi-paradigme, c'est-à-dire qu'il permet de programmer selon plusieurs approches différentes. Il est orienté objet, c'est-à-dire qu'il permet de définir des classes et de créer des objets. Il est également fonctionnel, c'est-à-dire qu'il permet de définir des fonctions et de les utiliser comme des objets.
 
 
+## Histoire
+
+Python a été créé par Guido van Rossum en 1991. Le nom Python vient de la série télévisée Monty Python's Flying Circus. Python est un langage open source, c'est-à-dire que son code source est disponible publiquement. Python est un langage multiplateforme, c'est-à-dire qu'il peut être exécuté sur plusieurs systèmes d'exploitation différents.
+
+## Utilisation
+
+Python est un langage de programmation généraliste, c'est-à-dire qu'il peut être utilisé pour créer des applications de bureau, des applications web, des applications mobiles, des jeux vidéo, des scripts, etc. Python est également utilisé pour l'intelligence artificielle et le machine learning.
+
+## Syntaxe
+
+Python utilise une syntaxe simple et lisible. Il utilise l'indentation pour définir les blocs de code. Il utilise des espaces pour définir l'indentation. Il utilise des tabulations pour définir la séparation entre les éléments d'une instruction.
+
+```python
+# Exemple de syntaxe
+if True:
+    print("Hello World!")
+```
+
+## Interpréteur
+
+Python utilise un interpréteur pour exécuter du code Python. L'interpréteur Python est un programme qui exécute du code Python. Il existe plusieurs interpréteurs Python. Le plus connu est l'interpréteur CPython. Il existe également l'interpréteur PyPy, l'interpréteur Jython, l'interpréteur IronPython, etc.
+
+## Environnement de développement
+
+Python peut être exécuté dans un environnement de développement. Il existe plusieurs environnements de développement pour Python. Le plus connu est l'environnement de développement IDLE. Il existe également l'environnement de développement PyCharm, l'environnement de développement Spyder, l'environnement de développement Visual Studio Code, etc.
+
+
 ## Installation
 
 Pour installer Python, il suffit de télécharger le fichier d'installation sur le site officiel de Python (https://www.python.org/downloads/). Il est recommandé d'installer la dernière version de Python 3. Une fois le fichier téléchargé, il suffit de l'exécuter et de suivre les instructions.
